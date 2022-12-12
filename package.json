@@ -1,0 +1,23 @@
+{
+  "name": "myownchoiceshop",
+  "version": "1.0.0",
+  "description": "This is a restAPI made in node.js and sql for MyOwnChoice Shop",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasAagaard/MyOwnChoice-Shop.git"
+  },
+  "author": "Tobias Aagaard Christiansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiasAagaard/MyOwnChoice-Shop/issues"
+  },
+  "homepage": "https://github.com/TobiasAagaard/MyOwnChoice-Shop#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
