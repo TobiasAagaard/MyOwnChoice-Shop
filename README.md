@@ -1,6 +1,6 @@
-# Tøjshoppen
+# **Tøjshoppen**
 
-## sorteringer i apiet
+## Sorteringer i apiet
 - Tøj til voksne og børn
 - Priser 
 - Størelser
