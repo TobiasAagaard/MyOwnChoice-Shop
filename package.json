@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "This is a restAPI made in node.js and sql for MyOwnChoice Shop",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +16,13 @@
     "url": "https://github.com/TobiasAagaard/MyOwnChoice-Shop/issues"
   },
   "homepage": "https://github.com/TobiasAagaard/MyOwnChoice-Shop#readme",
+  "type": "module",
   "dependencies": {
-    "nodemon": "^2.0.20"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.27.0"
   }
 }
